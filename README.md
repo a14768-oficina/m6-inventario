@@ -55,7 +55,7 @@ Informações organizadas de forma clara
 
 🤖 Utilização da Inteligência Artificial (IA)
 🔹 Onde utilizei IA
-Durante o desenvolvimento deste projeto, utilizei Inteligência Artificial (Claude AI) nas seguintes áreas:
+Durante o desenvolvimento deste projeto, utilizei Inteligência Artificial nas seguintes áreas:
 
 Apoio na escrita e correção de código PHP
 
