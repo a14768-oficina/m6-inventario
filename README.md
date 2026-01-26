@@ -39,8 +39,7 @@ Lista das funcionalidades implementadas no projeto:
  Pesquisa por nome de computador (funcionalidade futura)
  Sistema de autenticação (funcionalidade futura)
 
-📸 Capturas de Ecrã
-Página Principal (index.php)
+📸 Página Principal (index.php)
 
 Dashboard com estatísticas de computadores por sala
 Sistema de navegação por salas
