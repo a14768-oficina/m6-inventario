@@ -17,16 +17,6 @@ Visualizar o software instalado em cada equipamento
 Organizar os equipamentos por salas
 Aceder a detalhes completos de cada computador
 
-🔗 Link da aplicação: https://a14768-oficina.infinityfree.me/m6-inventario/index.php
-
-🧱 Estrutura Geral do Projeto
-📁 Organização das Pastas e Ficheiros
-m6-inventario/
-│
-├── index.php           # Página principal com listagem de computadores
-├── detalhe.php         # Página de detalhes de cada computador
-├── config.php          # Configuração e ligação à base de dados
-└── README.md           # Documentação do projeto
 🗄️ Estrutura da Base de Dados
 A base de dados foi desenvolvida em MySQL e contém as seguintes tabelas principais:
 Tabela: salas
