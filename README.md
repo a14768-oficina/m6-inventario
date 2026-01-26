@@ -17,16 +17,6 @@ Visualizar o software instalado em cada equipamento
 Organizar os equipamentos por salas
 Aceder a detalhes completos de cada computador
 
-🗄️ Estrutura da Base de Dados
-A base de dados foi desenvolvida em MySQL e contém as seguintes tabelas principais:
-Tabela: salas
-CampoTipoDescriçãoid_salaINT (PK)Identificador único da salanome_salaVARCHAR(100)Nome da sala
-Tabela: computadores
-CampoTipoDescriçãoid_computadorINT (PK)Identificador único do computadornome_computadorVARCHAR(100)Nome/hostname do computadorid_salaINT (FK)Referência à salaprocessadorVARCHAR(100)Modelo do processadorramVARCHAR(50)Capacidade de memória RAMarmazenamentoVARCHAR(50)Capacidade de armazenamentosistema_operativoVARCHAR(100)Sistema operativo instalado
-Tabela: software
-CampoTipoDescriçãoid_softwareINT (PK)Identificador único do softwarenome_softwareVARCHAR(100)Nome do softwareversaoVARCHAR(50)Versão do software
-Tabela: computador_software
-CampoTipoDescriçãoid_computadorINT (FK)Referência ao computadorid_softwareINT (FK)Referência ao software
 🔗 Relações entre Tabelas
 
 Salas ↔ Computadores: Relação 1:N (uma sala pode ter vários computadores)
