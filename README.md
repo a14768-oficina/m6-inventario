@@ -360,8 +360,6 @@ Link para o repositório do projeto: [https://github.com/a14768-oficina/m6-inven
 
 **Afonso Almeida**  
 Turma 2ºI – GPSI  
-Ano Letivo 2024/2025
+Ano Letivo 2025/2026
 
 ---
-
-*Documentação criada com auxílio de Inteligência Artificial (Claude AI)*
