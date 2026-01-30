@@ -88,9 +88,9 @@ Lista das funcionalidades implementadas no projeto:
 - [x] Visualização das características técnicas de cada computador
 - [x] Consulta do software instalado
 - [x] Página de detalhes por computador
-- [x] **Pesquisa dinâmica em tempo real (AJAX/Live Search)** ⭐ **NOVO**
-- [x] **API RESTful para pesquisa** ⭐ **NOVO**
-- [x] **Navegação por teclado na pesquisa** ⭐ **NOVO**
+- [x] **Pesquisa dinâmica em tempo real (AJAX/Live Search)**
+- [x] **API RESTful para pesquisa**
+- [x] **Navegação por teclado na pesquisa**
 - [x] Organização do dashboard com estatísticas por sala
 - [x] Melhorias visuais no interface (design futurista profissional)
 - [x] Sistema de navegação por abas (filtro por salas)
